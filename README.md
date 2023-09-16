@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MediaDept
 - 👀 I’m interested in Godot
-- 🌱 I’m currently learning Godot, GDScript, C#
+- 🌱 I’m currently learning Godot, GDScript, C#, FOSS, DRMfree
 - 💞️ I’m looking to collaborate on maybe a number of games though I'm best at story, design, art and music and only picking up programming by necessity.
 - 📫 How to reach me: here I guess?
 
